@@ -1,0 +1,21 @@
+{
+  "name": "NewPuzzles",
+  "homepage": "https://github.com/Michaelzinhow/puzzles-web",
+  "authors": [
+    "Michael <mnpa1984@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
